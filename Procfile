@@ -1,1 +1,1 @@
-web: gunicorn task_manager_api.wsgi
+web: gunicorn task_manager_api.wsgi 
